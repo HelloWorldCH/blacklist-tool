@@ -9,7 +9,7 @@ const BLACKLIST_POE2_URL = 'https://raw.githubusercontent.com/The-Forbidden-Trov
 
 const BLACKLIST_POE2_URLS = [
   BLACKLIST_POE2_URL,
-  'https://raw.githubusercontent.com/HelloWorldCH/character_name_blacklist/main/blacklist_poe2.txt'
+  'https://raw.githubusercontent.com/HelloWorldCH/blacklist-tool/refs/heads/main/blacklist_poe2.txt'
 ];
 
 const BLACKLIST_UPDATE_INTERVAL = 1800000; // 30 minutes
