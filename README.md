@@ -10,7 +10,7 @@ A Path of Exile 3rd Party Tool to warn you when you engage with a TFT Blackliste
 
 ## Download
 
-Click [here](https://github.com/The-Forbidden-Trove/blacklist-tool/releases) to download.
+Click [here](https://github.com/HelloWorldCH/blacklist-tool/releases) to download.
 
 Currently available in Windows
 
